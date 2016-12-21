@@ -1,2 +1,3 @@
 # first-application
-application for testing
+this application for testing
+node
